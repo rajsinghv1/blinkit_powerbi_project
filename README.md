@@ -36,7 +36,14 @@ Here’s a snapshot of the Power BI dashboard:
 - **Data Cleaning & Transformation** → Power Query  
 
 ---
+## 
 ## 📂 Project Structure  
+```
+Blinkit_PowerBI_Project/
+│── BlinkIT Grocery Data.xlsx      # Dataset
+│── Blinkit-Project.png            # Dashboard Preview
+│── README.md                      # Documentation
+```
 ---
 ##🎯 Business Impact
 ## This analysis helps:
