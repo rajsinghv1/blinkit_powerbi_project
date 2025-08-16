@@ -8,10 +8,10 @@ The goal of this project is to help stakeholders make **data-driven business dec
 ---
 
 ## 🚀 Key Insights  
-- 💰 **Total Sales**: `$1.20M`  
-- 🛒 **Average Sales per Item**: `$141`  
-- 📦 **Total Items Sold**: `8523`  
-- ⭐ **Average Rating**: `3.9`  
+-  **Total Sales**: `$1.20M`  
+-  **Average Sales per Item**: `$141`  
+-  **Total Items Sold**: `8523`  
+-  **Average Rating**: `3.9`  
 ---
 ### 🔍 Sales Breakdown  
 - **By Fat Content**: Regular items ($776K) generate higher sales than Low Fat ($425K).  
@@ -38,7 +38,7 @@ Here’s a snapshot of the Power BI dashboard:
 ---
 ## 📂 Project Structure  
 ---
-🎯 Business Impact
+##🎯 Business Impact
 ## This analysis helps:
 - Identify profitable outlets and products.
 - Optimize inventory & sales strategy.
