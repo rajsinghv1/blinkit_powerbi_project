@@ -26,9 +26,7 @@ The goal of this project is to help stakeholders make **data-driven business dec
 
 Here’s a snapshot of the Power BI dashboard:  
 
-![Blinkit Dashboard](Images/blinkit_dashboard.png)  
-
-*(You can add multiple screenshots if your project has different pages/visuals.)*  
+![Blinkit Dashboard](https://github.com/rajsinghv1/blinkit_powerbi_project/blob/main/Blinkit-Project.png)   
 
 ---
 
