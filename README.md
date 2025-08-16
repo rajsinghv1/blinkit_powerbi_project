@@ -12,7 +12,7 @@ The goal of this project is to help stakeholders make **data-driven business dec
 - 🛒 **Average Sales per Item**: `$141`  
 - 📦 **Total Items Sold**: `8523`  
 - ⭐ **Average Rating**: `3.9`  
-
+---
 ### 🔍 Sales Breakdown  
 - **By Fat Content**: Regular items ($776K) generate higher sales than Low Fat ($425K).  
 - **By Item Type**: Fruits, Snacks, Household, and Dairy dominate sales.  
@@ -38,22 +38,19 @@ Here’s a snapshot of the Power BI dashboard:
 - **Data Cleaning & Transformation** → Power Query  
 
 ---
-
 ## 📂 Project Structure  
 ---
 🎯 Business Impact
-
 ## This analysis helps:
-✔️ Identify profitable outlets and products.
-✔️ Optimize inventory & sales strategy.
-✔️ Understand customer preferences based on ratings and purchase patterns.
+- Identify profitable outlets and products.
+- Optimize inventory & sales strategy.
+- Understand customer preferences based on ratings and purchase patterns.
 ---
 ## 🔮 Future Scope  
 -  Integrating **real-time sales data** using APIs  
 -  Adding **predictive analytics** (forecasting sales trends)  
 -  Expanding dashboard for **customer segmentation analysis** 
 ---
-
 ## 📖 Learnings  
 -  Hands-on with **Power BI visualizations**  
 -  Creating **interactive dashboards with slicers & filters**  
